@@ -16,6 +16,7 @@
 - Beperk het bereik van 1 tot 5
 - Toon de waarde van de Slider in de overeenkomstige TextBox
 
-## Deel 3: Koppelen
+## Deel 3: Koppelen + achtergrond
 - Zorg ervoor dat de slider ook de juiste waarde toont wanneer je via het menu de standaardwaarde op "2" zet.
 - Zorg er ook voor dat wanneer je de waarde in de TextBox wijzigt, de Slider mee beweegt naar de juist waarde.
+- Wanneer de waarde kleiner is dan 3, wordt de achtergrondkleur van de overeenkomstige TextBox ```#FF68F928```, anders ```#FFFB3C3C```. Maak hiervoor gebruik van een ternary expression.
